@@ -1,0 +1,176 @@
+query,category
+"Where is my order?",Delivery
+"My order has not arrived yet",Delivery
+"When will my package be delivered?",Delivery
+"I haven't received my order",Delivery
+"My delivery is delayed",Delivery
+"The delivery status shows pending for days",Delivery
+"Track my order please",Delivery
+"My shipment is stuck in transit",Delivery
+"I placed my order a week ago and still no delivery",Delivery
+"Can you tell me the expected delivery date?",Delivery
+"The courier has not come yet",Delivery
+"My package was supposed to arrive yesterday",Delivery
+"Delivery agent did not deliver my parcel",Delivery
+"The tracking number is not working",Delivery
+"I got a delivery notification but no package",Delivery
+"My order is showing out for delivery since morning",Delivery
+"The delivery partner is unreachable",Delivery
+"I want to change my delivery address",Delivery
+"Can I reschedule the delivery?",Delivery
+"My order was delivered to the wrong address",Delivery
+"I need express delivery for my order",Delivery
+"How long does standard delivery take?",Delivery
+"My order was marked delivered but I did not receive it",Delivery
+"The estimated delivery date keeps changing",Delivery
+"I want same day delivery",Delivery
+"My payment failed",Payment
+"My payment was declined",Payment
+"Money was deducted but order was not placed",Payment
+"I was charged twice for one order",Payment
+"Payment is stuck in processing",Payment
+"My card was charged but I got no confirmation",Payment
+"I cannot complete the payment",Payment
+"The payment gateway is showing an error",Payment
+"I want to change my payment method",Payment
+"My UPI payment failed",Payment
+"Transaction failed but amount was debited",Payment
+"I see an unauthorized charge on my card",Payment
+"My payment is pending from last 2 days",Payment
+"The payment page is not loading",Payment
+"How can I pay using net banking?",Payment
+"My wallet balance was deducted but order failed",Payment
+"I entered wrong payment details",Payment
+"Can I pay cash on delivery?",Payment
+"The EMI option is not showing for my card",Payment
+"My coupon code is not working during payment",Payment
+"I got a payment failure error at checkout",Payment
+"My debit card transaction was declined",Payment
+"Double payment has been charged",Payment
+"Payment confirmation email not received",Payment
+"I want to switch to a different payment option",Payment
+"I want my money back",Refund
+"When will I get my refund?",Refund
+"My refund has not been processed",Refund
+"I returned the product but did not get refund",Refund
+"Refund is taking too long",Refund
+"How long does the refund process take?",Refund
+"I want a full refund",Refund
+"My refund was less than expected",Refund
+"The refund amount is incorrect",Refund
+"I was promised a refund but haven't received it",Refund
+"Refund was initiated but not credited to my account",Refund
+"I want refund to my original payment method",Refund
+"Partial refund was given instead of full refund",Refund
+"My refund request was rejected",Refund
+"Can I get a refund for a digital product?",Refund
+"The refund status shows processing for a week",Refund
+"I want a refund because the product was defective",Refund
+"How do I initiate a refund?",Refund
+"Refund not reflecting in my bank account",Refund
+"I need an urgent refund",Refund
+"Why was my refund request denied?",Refund
+"I want a refund for the shipping charges too",Refund
+"The company promised refund within 7 days but it has been 15 days",Refund
+"I am still waiting for my refund",Refund
+"Please process my refund immediately",Refund
+"I want to cancel my order",Cancellation
+"How do I cancel my order?",Cancellation
+"Can I cancel after payment?",Cancellation
+"I placed a wrong order and want to cancel",Cancellation
+"Cancel my subscription",Cancellation
+"I don't want this product anymore please cancel",Cancellation
+"My order cancellation request is pending",Cancellation
+"Why was my cancellation request rejected?",Cancellation
+"I want to cancel and reorder",Cancellation
+"Cancel all my pending orders",Cancellation
+"The cancellation button is not working",Cancellation
+"I tried to cancel but the order was already shipped",Cancellation
+"Can I cancel a part of my order?",Cancellation
+"I want to cancel my membership",Cancellation
+"How much time do I have to cancel?",Cancellation
+"Cancel my order and process refund",Cancellation
+"I accidentally placed a duplicate order please cancel one",Cancellation
+"Will I be charged for cancellation?",Cancellation
+"I changed my mind and want to cancel",Cancellation
+"The order should not have been placed cancel it",Cancellation
+"I want to cancel because delivery is too late",Cancellation
+"Please cancel my order placed today",Cancellation
+"Cancel my auto renewal subscription",Cancellation
+"I no longer need this order",Cancellation
+"How to cancel order through app?",Cancellation
+"The product I received is damaged",Product Issue
+"I received a defective item",Product Issue
+"The product stopped working after one day",Product Issue
+"Wrong product was delivered",Product Issue
+"The quality of the product is very poor",Product Issue
+"Product does not match the description",Product Issue
+"I received an expired product",Product Issue
+"The product is missing some parts",Product Issue
+"Size of the product is wrong",Product Issue
+"Color of the product is different from what was shown",Product Issue
+"The product has scratches on it",Product Issue
+"My product is not functioning properly",Product Issue
+"I got a used product instead of new",Product Issue
+"The packaging was damaged and product was broken",Product Issue
+"Product arrived with manufacturing defect",Product Issue
+"The electronic item is not turning on",Product Issue
+"The product warranty card is missing",Product Issue
+"I received an incomplete product",Product Issue
+"The material quality is not as advertised",Product Issue
+"Product broke within a week of purchase",Product Issue
+"The product has a bad smell",Product Issue
+"I received someone else's product",Product Issue
+"The appliance is making unusual noise",Product Issue
+"Product dimensions are incorrect",Product Issue
+"The product manual is in a different language",Product Issue
+"I am unhappy with the service",Complaint
+"Your customer support is terrible",Complaint
+"Nobody is resolving my issue",Complaint
+"I have been waiting on hold for hours",Complaint
+"This is the worst experience I have ever had",Complaint
+"I want to file a formal complaint",Complaint
+"Your service has gone downhill",Complaint
+"I am very disappointed with your company",Complaint
+"I want to speak to a manager",Complaint
+"No one is responding to my emails",Complaint
+"I have raised multiple tickets but no resolution",Complaint
+"Your executives are rude and unhelpful",Complaint
+"I will never buy from you again",Complaint
+"I am going to report this to consumer forum",Complaint
+"This is unacceptable behavior from your team",Complaint
+"I have been a loyal customer but I am fed up now",Complaint
+"Your chat support keeps disconnecting",Complaint
+"I was given false promises by your team",Complaint
+"The issue keeps repeating and no one fixes it",Complaint
+"I want compensation for the inconvenience caused",Complaint
+"Your company does not care about customers",Complaint
+"I am extremely frustrated with the service",Complaint
+"Nobody takes responsibility in your company",Complaint
+"I have been calling for three days with no help",Complaint
+"This level of service is completely unacceptable",Complaint
+"I cannot login to my account",Account Issue
+"My account has been locked",Account Issue
+"I forgot my password",Account Issue
+"I am not receiving the OTP",Account Issue
+"My account was hacked",Account Issue
+"How do I reset my password?",Account Issue
+"I want to update my email address",Account Issue
+"My phone number is not linked to my account",Account Issue
+"I cannot access my order history",Account Issue
+"My account shows incorrect information",Account Issue
+"I want to delete my account",Account Issue
+"Someone else is using my account",Account Issue
+"My account verification failed",Account Issue
+"I cannot update my profile information",Account Issue
+"The login page is showing an error",Account Issue
+"My saved addresses are missing from my account",Account Issue
+"I created a duplicate account by mistake",Account Issue
+"I want to merge two accounts",Account Issue
+"My account was deactivated without notice",Account Issue
+"I cannot change my registered mobile number",Account Issue
+"How do I enable two factor authentication?",Account Issue
+"My account settings are not saving",Account Issue
+"I am logged out automatically every time",Account Issue
+"My wishlist items have disappeared",Account Issue
+"I want to change my username",Account Issue
